@@ -1,0 +1,22 @@
+{
+  "name": "base-node",
+  "version": "1.0.0",
+  "description": "Es una tabla de multiplicar",
+  "main": "app.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ttps://github.com/DavidTamayoRomo/PruebasNode.git"
+  },
+  "author": "David",
+  "license": "MIT"
+}
