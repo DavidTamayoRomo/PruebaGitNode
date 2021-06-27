@@ -14,8 +14,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
-    "url": "ttps://github.com/DavidTamayoRomo/PruebasNode.git"
+    "type": "git"
+
   },
   "author": "David",
   "license": "MIT"
